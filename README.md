@@ -1,6 +1,6 @@
 # 🎵 Spotify Data Analysis
 This project explores patterns and predictive relationships in a Spotify dataset using statistical analysis and machine learning techniques. All work was done in Python using:
-> Pandas, NumPy, SciPy, Matplotlib, Scikit-learn
+> `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Scikit-learn`
 
 ## Exploratory Analysis: Investigated relationships between song features like duration, popularity, loudness, energy, and more.
 * Found a weak negative correlation between duration and popularity.
